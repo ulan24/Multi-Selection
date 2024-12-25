@@ -1,18 +1,16 @@
-# Getting Started with Create React App
+# Multi-Selection App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+The Multi-Selection App is a React-based web application that allows users to interact with a list of items and expand or collapse each item's details dynamically. The app demonstrates the use of React hooks for state management, reusable components, and conditional rendering.
+  
+## Features
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+• Dynamic Accordions: Expand or collapse individual sections to reveal more information.
+• Single Selection Mode: Only one accordion can be expanded at a time, ensuring a clean and intuitive user experience.
+• Responsive Design: Fully responsive layout optimized for both desktop and mobile screens.
+• Error Handling: Displays a message when no data is available.
+• Customizable: Easy to extend with new features or integrate with APIs.
 
 ### `npm test`
 
