@@ -11,7 +11,9 @@ The Multi-Selection App is a React-based web application that allows users to in
 • Single Selection Mode: Only one accordion can be expanded at a time, ensuring a clean and intuitive user experience.
 
 • Responsive Design: Fully responsive layout optimized for both desktop and mobile screens.
+
 • Error Handling: Displays a message when no data is available.
+
 • Customizable: Easy to extend with new features or integrate with APIs.
 
 ### `npm test`
